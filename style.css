@@ -25,3 +25,12 @@ button {
 image {
     size: 250px;
 }
+
+#cookie {
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    background: url(./Cookie.png) transparent center;
+    background-size: cover;
+    cursor: pointer;
+}
